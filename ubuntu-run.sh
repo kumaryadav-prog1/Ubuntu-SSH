@@ -1,6 +1,6 @@
 echo this can run commands in terminal tho
 
-wget https://github.com/xiaoxindada/SGSI-build-tool/releases/download/v11-1.4/SGSI-build-tool-11.tar >> /dev/null
+wget https://gitlab.com/kumaryadav-prog1/SGSI-Tool-Xiaxindada >> /dev/null
 tar -xf SGSI-build-tool-11.tar >> /dev/null
 rm SGSI-build-tool-11.tar
 echo 'Setup has been done Successfully'
