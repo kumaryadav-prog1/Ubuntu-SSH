@@ -1,8 +1,6 @@
 echo this can run commands in terminal tho
 
-wget https://gitlab.com/kumaryadav-prog1/SGSI-Tool-Xiaxindada >> /dev/null
-tar -xf SGSI-build-tool-11.tar >> /dev/null
-rm SGSI-build-tool-11.tar
+git clone https://gitlab.com/kumaryadav-prog1/SGSI-Tool-Xiaxindada >> /dev/null
 echo 'Setup has been done Successfully'
 echo '--------------------------------'
 echo 'Getting SuperR ready for you'
